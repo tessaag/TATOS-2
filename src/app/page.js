@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 
 export default function Home() {
-  return (
+  return ( 
     <div className="bg-red-400 min-h-screen flex justify-center items-center">
       <div className="bg-white bg-opacity-50 p-8 rounded-md">
         <h1 className="text-2xl text-center font-bold mb-4">Login</h1>
